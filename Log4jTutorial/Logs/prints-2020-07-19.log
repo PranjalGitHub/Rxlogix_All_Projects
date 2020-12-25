@@ -1,0 +1,9 @@
+19:47:22.342 [main] ERROR Alpha.Demo - Button not clicked
+19:47:22.344 [main] FATAL Alpha.Demo - Button not found
+19:48:01.407 [main] DEBUG Alpha.Demo - Click on the button
+19:48:01.410 [main] INFO  Alpha.Demo - Clicked on the button
+19:48:01.410 [main] ERROR Alpha.Demo - Button not clicked
+19:48:01.410 [main] FATAL Alpha.Demo - Button not found
+19:57:42.177 [main] INFO  Alpha.Demo - Website Opened
+19:57:42.638 [main] DEBUG Alpha.Demo - CheckBox checked
+19:58:36.549 [main] INFO  Alpha.Demo - Website Opened

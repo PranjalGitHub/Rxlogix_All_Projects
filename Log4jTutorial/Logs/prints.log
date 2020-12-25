@@ -1,0 +1,4 @@
+19:58:36.994 [main] DEBUG Alpha.Demo - CheckBox checked
+20:00:01.973 [main] INFO  Alpha.Demo - Website Opened
+20:00:02.432 [main] DEBUG Alpha.Demo - CheckBox checked
+20:00:08.784 [main] ERROR Alpha.Demo - Button not clicked

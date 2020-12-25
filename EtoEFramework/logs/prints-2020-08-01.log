@@ -1,0 +1,6 @@
+19:43:52.171 [main] INFO  Academy.EtoEFramework.ValidateTitle - Text is verified
+19:43:55.619 [main] INFO  Academy.EtoEFramework.ValidateNavBar - driver is initialized
+19:44:05.152 [main] INFO  Academy.EtoEFramework.ValidateNavBar - URL is entered
+19:44:05.229 [main] INFO  Academy.EtoEFramework.ValidateNavBar - Navigation bar is displayed
+19:44:08.614 [main] INFO  Academy.EtoEFramework.AcademyHomePage - Driver is initialized
+19:44:16.476 [main] INFO  Academy.EtoEFramework.AcademyHomePage - URL is entered
